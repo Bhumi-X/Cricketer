@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Join Our Telegram Channel</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: linear-gradient(to right, #00c6ff, #0072ff);
+      color: white;
+      padding: 50px;
+    }
+    .container {
+      background: white;
+      color: black;
+      padding: 30px;
+      border-radius: 10px;
+      max-width: 500px;
+      margin: auto;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    }
+    a.button {
+      background: #0072ff;
+      color: white;
+      padding: 15px 25px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 18px;
+      display: inline-block;
+      margin-top: 20px;
+    }
+    a.button:hover {
+      background: #005bd8;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎯 Join Our Telegram Channel</h1>
+    <p>Get free tips, updates, and exclusive content directly on Telegram.</p>
+    <a class="button" href="https://t.me/@JONNY066" target="_blank">Join Now</a>
+  </div>
+</body>
+</html>
